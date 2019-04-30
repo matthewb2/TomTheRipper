@@ -5,3 +5,11 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\sendhttp\sendhttp\bin\Debug\sendhttp.pdb
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\sendhttp\sendhttp\obj\Debug\sendhttp.exe
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\sendhttp\sendhttp\obj\Debug\sendhttp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\bin\Debug\sendhttp.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\bin\Debug\sendhttp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TomTheRipper\sendhttp\sendhttp\obj\Debug\sendhttp.pdb

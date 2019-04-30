@@ -57,7 +57,7 @@ namespace sendhttp
             // MessageBox.Show(text);
             
 
-            string URI = "remote server address";
+            string URI = "http://www.kwabe.co.kr/post.php";
             string myParameters = "param1="+text;
 
             using (WebClient wc = new WebClient())
