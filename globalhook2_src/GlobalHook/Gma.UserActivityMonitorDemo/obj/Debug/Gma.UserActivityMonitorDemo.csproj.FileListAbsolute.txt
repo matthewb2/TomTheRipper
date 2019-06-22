@@ -1,0 +1,13 @@
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.exe
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.pdb
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.dll
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csprojAssemblyReference.cache
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormStatic.resources
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormComponent.resources
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.Properties.Resources.resources
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csproj.GenerateResource.cache
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csproj.CoreCompileInputs.cache
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csproj.CopyComplete
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.exe
+D:\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.pdb
