@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.Form1.resources
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.Properties.Resources.resources
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\importu32\importu32\bin\Debug\importu32.exe.config
+C:\Users\Administrator\source\repos\importu32\importu32\bin\Debug\importu32.exe
+C:\Users\Administrator\source\repos\importu32\importu32\bin\Debug\importu32.pdb
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.exe
+C:\Users\Administrator\source\repos\importu32\importu32\obj\Debug\importu32.pdb
